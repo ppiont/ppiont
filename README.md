@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-👨‍🚀 I'm  Danish software engineer based in Switzerland
-
-🌱 I’m currently sharpening my skills in platform engineering and DevOps
-
 
 <!--
 
